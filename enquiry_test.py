@@ -8,11 +8,11 @@ from selenium.webdriver.support.ui import Select
 
 import datetime
 from dateutil.relativedelta import relativedelta
-startDate = datetime.datetime.now() + relativedelta(years=2)+relativedelta(days=2)
+startDate = datetime.datetime.now() + relativedelta(years=2)-relativedelta(days=datetime.datetime.now().hour)
 endDate = startDate + relativedelta(days=2)
 
 # Create a new instance of the Firefox driver
-driver = webdriver.Firefox()
+driver = webdriver.PhantomJS()
 
 # go to the google home page
 driver.get("https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no")
@@ -48,18 +48,11 @@ inputElement.send_keys("neal+seleniumtest@travelground.com")
 inputElement = driver.find_element_by_id("cellphone")
 inputElement.send_keys("1111111111")
 
+driver.find_element_by_id('action_button').click()
+
 try:
 	WebDriverWait(driver, 10).until(EC.title_contains("Successful Enquiry"))
 	print (driver.title)
 finally:
 	driver.quit()
 
-# try:
-#     # we have to wait for the page to refresh, the last thing that seems to be updated is the title
-#     WebDriverWait(driver, 10).until(EC.title_contains("cheese!"))
-
-#     # You should see "cheese! - Google Search"
-#     print (driver.title)
-
-# finally:
-#     driver.quit()
