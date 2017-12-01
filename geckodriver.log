@@ -1,0 +1,1235 @@
+1512118638399	geckodriver	INFO	geckodriver 0.19.1
+1512118638473	geckodriver	INFO	Listening on 127.0.0.1:62789
+1512118639041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.X6bxea9K55HP"
+1512118640942	Marionette	INFO	Enabled via --marionette
+2017-12-01 10:57:22.112 plugin-container[30309:1555093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512118642969	Marionette	INFO	Listening on port 62793
+1512118664164	geckodriver	INFO	geckodriver 0.19.1
+1512118664231	geckodriver	INFO	Listening on 127.0.0.1:62863
+1512118664384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.LVTUOmtfoeWu"
+1512118665041	Marionette	INFO	Enabled via --marionette
+2017-12-01 10:57:45.881 plugin-container[30320:1555856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512118666261	Marionette	INFO	Listening on port 62867
+1512118666811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512118666857	Marionette	DEBUG	Register listener.js for window 2147483649
+1512118666869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512118668977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512118668977	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512118669091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.za/?gfe_rd=cr&dcr=0&ei=ixkhWsOWGPGo8we4jpewCA"
+1512118670489	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.za/?gfe_rd=cr&dcr=0&ei=ixkhWsOWGPGo8we4jpewCA"
+1512119356559	geckodriver	INFO	geckodriver 0.19.1
+1512119356644	geckodriver	INFO	Listening on 127.0.0.1:64252
+1512119358906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.IIcSQi39MIuF"
+1512119359555	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:09:20.428 plugin-container[30747:1578513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512119360790	Marionette	INFO	Listening on port 64262
+1512119361336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512119361378	Marionette	DEBUG	Register listener.js for window 2147483649
+1512119361395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512119361814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512119361814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=bf7e5ef7b5, line 57: TypeError: document.getElementById(...) is null
+1512119362387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512119365174	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js, line 634: TypeError: inspector.selection is undefined
+1512119484868	geckodriver	INFO	geckodriver 0.19.1
+1512119484933	geckodriver	INFO	Listening on 127.0.0.1:64564
+1512119485133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.rc4QEGo9xizX"
+1512119485973	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:11:27.039 plugin-container[30814:1583608] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512119487496	Marionette	INFO	Listening on port 64568
+1512119487581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512119487627	Marionette	DEBUG	Register listener.js for window 2147483649
+1512119487756	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512119488353	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512119488353	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=bf7e5ef7b5, line 57: TypeError: document.getElementById(...) is null
+1512119489140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512119491841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512121408575	geckodriver	INFO	geckodriver 0.19.1
+1512121408647	geckodriver	INFO	Listening on 127.0.0.1:52390
+1512121410676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.7Wf4dGKAo16h"
+1512121411466	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:43:32.376 plugin-container[31679:1648003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512121412916	Marionette	INFO	Listening on port 52400
+1512121413220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512121413269	Marionette	DEBUG	Register listener.js for window 2147483649
+1512121413283	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512121413860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512121413861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512121414352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512121417016	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.travelground.com
+1512121598853	geckodriver	INFO	geckodriver 0.19.1
+1512121598918	geckodriver	INFO	Listening on 127.0.0.1:52820
+1512121599064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.VdTIMVaQBeul"
+1512121599791	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:46:40.626 plugin-container[31842:1654666] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512121601060	Marionette	INFO	Listening on port 52826
+1512121601497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512121601538	Marionette	DEBUG	Register listener.js for window 2147483649
+1512121601556	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512121601968	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512121601968	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512121602669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512121605253	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512121752150	geckodriver	INFO	geckodriver 0.19.1
+1512121752216	geckodriver	INFO	Listening on 127.0.0.1:53178
+1512121752363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.mZISjFlgUyJl"
+1512121753010	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:49:13.860 plugin-container[31972:1659031] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512121754218	Marionette	INFO	Listening on port 53184
+1512121754791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512121754833	Marionette	DEBUG	Register listener.js for window 2147483649
+1512121754848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512121755255	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512121755256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512121755718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512121759532	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512121799471	geckodriver	INFO	geckodriver 0.19.1
+1512121799570	geckodriver	INFO	Listening on 127.0.0.1:53418
+1512121801665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.O4oaESXiYVq2"
+1512121802273	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:50:03.100 plugin-container[32040:1661203] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512121803504	Marionette	INFO	Listening on port 53429
+1512121804115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512121804160	Marionette	DEBUG	Register listener.js for window 2147483649
+1512121804173	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512121804590	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512121804590	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512121805077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512121807633	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512122224184	geckodriver	INFO	geckodriver 0.19.1
+1512122224284	geckodriver	INFO	Listening on 127.0.0.1:54464
+1512122226317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.c7k9O4y5fekY"
+1512122227044	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:57:07.864 plugin-container[32327:1674963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512122228241	Marionette	INFO	Listening on port 54474
+1512122228753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512122228794	Marionette	DEBUG	Register listener.js for window 2147483649
+1512122228807	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512122229243	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512122229243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512122229719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512122232304	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512122359675	geckodriver	INFO	geckodriver 0.19.1
+1512122359782	geckodriver	INFO	Listening on 127.0.0.1:54798
+1512122361917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.16HEckkNaAqn"
+1512122362747	Marionette	INFO	Enabled via --marionette
+2017-12-01 11:59:23.661 plugin-container[32458:1679495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512122364126	Marionette	INFO	Listening on port 54808
+1512122364412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512122364455	Marionette	DEBUG	Register listener.js for window 2147483649
+1512122364468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512122364897	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512122364897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512122365354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512122368002	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512122520492	geckodriver	INFO	geckodriver 0.19.1
+1512122520595	geckodriver	INFO	Listening on 127.0.0.1:55174
+1512122522692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.67nU7wkaFHGo"
+1512122523415	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:02:04.374 plugin-container[32611:1686219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512122524740	Marionette	INFO	Listening on port 55184
+1512122525127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512122525177	Marionette	DEBUG	Register listener.js for window 2147483649
+1512122525189	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512122525760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512122525760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512122526232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512122528786	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512122557082	geckodriver	INFO	geckodriver 0.19.1
+1512122557148	geckodriver	INFO	Listening on 127.0.0.1:55301
+1512122557299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.4oEUqNMSL3dQ"
+1512122557915	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:02:38.815 plugin-container[32645:1687860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512122559206	Marionette	INFO	Listening on port 55305
+1512122559750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512122559800	Marionette	DEBUG	Register listener.js for window 2147483649
+1512122559815	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512122560228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512122560228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512122560900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512122563472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512123257283	geckodriver	INFO	geckodriver 0.19.1
+1512123257400	geckodriver	INFO	Listening on 127.0.0.1:56991
+1512123259436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.UfNNaay1saDh"
+1512123260226	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:14:21.069 plugin-container[32894:1711454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512123261447	Marionette	INFO	Listening on port 57003
+1512123261866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512123261911	Marionette	DEBUG	Register listener.js for window 2147483649
+1512123261926	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512123262370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512123262371	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512123262964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123265593	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512123328399	geckodriver	INFO	geckodriver 0.19.1
+1512123328473	geckodriver	INFO	Listening on 127.0.0.1:57201
+1512123328614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.IYHhBNCT6jrH"
+1512123329453	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:15:30.463 plugin-container[32957:1713963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb83f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512123330824	Marionette	INFO	Listening on port 57207
+1512123331127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512123331177	Marionette	DEBUG	Register listener.js for window 2147483649
+1512123331191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512123331614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512123331615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512123332096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123334734	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123335155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.travelground.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.travelground.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.travelground.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+1512123733892	geckodriver	INFO	geckodriver 0.19.1
+1512123733997	geckodriver	INFO	Listening on 127.0.0.1:58059
+1512123736150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.qKJcX49WKVXK"
+1512123736802	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:22:17.705 plugin-container[33249:1726426] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb93f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512123738116	Marionette	INFO	Listening on port 58069
+1512123738629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512123738680	Marionette	DEBUG	Register listener.js for window 2147483649
+1512123738698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512123739357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512123739358	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512123739893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123742493	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123742939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512123743200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512123788617	geckodriver	INFO	geckodriver 0.19.1
+1512123788687	geckodriver	INFO	Listening on 127.0.0.1:58235
+1512123790740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.VK4Lzu5fmcNA"
+1512123791532	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:23:12.454 plugin-container[33278:1728371] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512123792794	Marionette	INFO	Listening on port 58247
+1512123793171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512123793213	Marionette	DEBUG	Register listener.js for window 2147483649
+1512123793226	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512123793639	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512123793639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512123794086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123796664	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123797102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512123797359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.travelground.com
+1512123851853	geckodriver	INFO	geckodriver 0.19.1
+1512123852146	geckodriver	INFO	Listening on 127.0.0.1:58439
+1512123854130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.vQHoi9Kpdtep"
+1512123855086	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:24:16.092 plugin-container[33321:1730712] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512123856580	Marionette	INFO	Listening on port 58452
+1512123856652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512123856707	Marionette	DEBUG	Register listener.js for window 2147483649
+1512123856953	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512123857444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512123857445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512123857943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123860560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512123861033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512123861297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+1512123999897	geckodriver	INFO	geckodriver 0.19.1
+1512124000034	geckodriver	INFO	Listening on 127.0.0.1:58820
+1512124001947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.LnRVJ7GgIRY6"
+1512124002631	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:26:43.453 plugin-container[33402:1735607] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124003996	Marionette	INFO	Listening on port 58830
+1512124004385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124004433	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124004450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124004857	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124004857	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124005296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124007941	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124008366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124008629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512124025377	geckodriver	INFO	geckodriver 0.19.1
+1512124025432	geckodriver	INFO	Listening on 127.0.0.1:58954
+1512124025590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.nRSTawarwwe0"
+1512124026193	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:27:07.056 plugin-container[33422:1736566] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124027523	Marionette	INFO	Listening on port 58958
+1512124028030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124028073	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124028085	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124028490	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124028490	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124028979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124031869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124032303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124032565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+2017-12-01 12:29:23.540 plugin-container[33459:1743760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xbb3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+2017-12-01 12:34:08.981 plugin-container[33662:1753780] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 12:34:14.325 plugin-container[33663:1754010] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 12:34:20.327 plugin-container[33665:1754321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 12:34:24.772 plugin-container[33666:1754454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 12:34:27.939 plugin-container[33668:1754567] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124523809	geckodriver	INFO	geckodriver 0.19.1
+1512124523918	geckodriver	INFO	Listening on 127.0.0.1:60142
+1512124526028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.2neQhqb9qOin"
+1512124526659	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:35:27.574 plugin-container[33698:1756413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124528017	Marionette	INFO	Listening on port 60152
+1512124528467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124528516	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124528536	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124529180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124529180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124529643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124532236	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124532658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124532914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512124652511	geckodriver	INFO	geckodriver 0.19.1
+1512124652580	geckodriver	INFO	Listening on 127.0.0.1:60480
+1512124652725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.vtwLrCLqGcPK"
+1512124653656	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:37:34.671 plugin-container[33777:1760220] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124655169	Marionette	INFO	Listening on port 60484
+1512124655257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124655306	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124655424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124655840	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124655841	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124656325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124658982	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124659396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124659651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512124704563	geckodriver	INFO	geckodriver 0.19.1
+1512124704637	geckodriver	INFO	Listening on 127.0.0.1:60663
+1512124706737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.plQOn2KB6jsX"
+1512124707615	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:38:28.723 plugin-container[33879:1762522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124709140	Marionette	INFO	Listening on port 60673
+1512124709167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124709220	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124709235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124709671	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124709672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124710136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124712670	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124713092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124713352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/global_libraries.js?v=d68c2f6923, line 2: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/global_libraries.js?v=d68c2f6923, line 2: TypeError: a is null
+1512124828618	geckodriver	INFO	geckodriver 0.19.1
+1512124828685	geckodriver	INFO	Listening on 127.0.0.1:61118
+1512124828817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.TtZlg2WqCpKF"
+1512124829630	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:40:30.640 plugin-container[33932:1766254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512124831055	Marionette	INFO	Listening on port 61122
+1512124831313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512124831362	Marionette	DEBUG	Register listener.js for window 2147483649
+1512124831385	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512124831955	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512124831955	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512124832402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124834939	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512124835392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512124835649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+1512125115143	geckodriver	INFO	geckodriver 0.19.1
+1512125115312	geckodriver	INFO	Listening on 127.0.0.1:61785
+1512125117143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.B29hJ9BTBm4z"
+1512125118529	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:45:19.733 plugin-container[33999:1779897] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512125120278	Marionette	INFO	Listening on port 61795
+1512125120789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512125120837	Marionette	DEBUG	Register listener.js for window 2147483649
+1512125120854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512125121258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512125121258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512125121814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512125124618	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512125125594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512125125852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+1512125220366	geckodriver	INFO	geckodriver 0.19.1
+1512125220437	geckodriver	INFO	Listening on 127.0.0.1:62075
+1512125220573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.bOcb7YZgXDuB"
+1512125221245	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:47:02.115 plugin-container[34221:1784184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512125222487	Marionette	INFO	Listening on port 62079
+1512125223019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512125223069	Marionette	DEBUG	Register listener.js for window 2147483649
+1512125223085	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512125223746	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512125223746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512125224196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512125227165	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512125227578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512125227838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512125324857	geckodriver	INFO	geckodriver 0.19.1
+1512125324926	geckodriver	INFO	Listening on 127.0.0.1:62382
+1512125325065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.9zkbogJi1ale"
+1512125325661	Marionette	INFO	Enabled via --marionette
+2017-12-01 12:48:46.428 plugin-container[34251:1787055] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512125326825	Marionette	INFO	Listening on port 62386
+1512125327490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512125327535	Marionette	DEBUG	Register listener.js for window 2147483649
+1512125327548	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512125327954	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512125327954	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512125328525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512125331063	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512125331469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512125331729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+1512127868809	geckodriver	INFO	geckodriver 0.19.1
+1512127868961	geckodriver	INFO	Listening on 127.0.0.1:51450
+1512127871019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.KgzIoXMjAZmF"
+1512127872035	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:31:13.339 plugin-container[34837:1835352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512127873961	Marionette	INFO	Listening on port 51462
+1512127874866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512127874932	Marionette	DEBUG	Register listener.js for window 2147483649
+1512127874970	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512127875983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512127875983	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512127876498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512127879249	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512127879670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512127879919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512127989955	geckodriver	INFO	geckodriver 0.19.1
+1512127990158	geckodriver	INFO	Listening on 127.0.0.1:51781
+1512127992237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.69HjOHwxrB7A"
+1512127993445	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:33:14.554 plugin-container[34903:1837938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512127995142	Marionette	INFO	Listening on port 51791
+1512127995893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512127995946	Marionette	DEBUG	Register listener.js for window 2147483649
+1512127995967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512127996394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512127996395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512127997195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512127999922	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512128000397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512128000661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+1512128564043	geckodriver	INFO	geckodriver 0.19.1
+1512128564108	geckodriver	INFO	Listening on 127.0.0.1:53146
+1512128564253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.73xuYZX1zsIU"
+1512128564933	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:42:45.811 plugin-container[35290:1850988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512128566155	Marionette	INFO	Listening on port 53150
+1512128566683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512128566726	Marionette	DEBUG	Register listener.js for window 2147483649
+1512128566738	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512128567316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512128567316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512128567836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512128570540	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512128570950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512128571202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512128837280	geckodriver	INFO	geckodriver 0.19.1
+1512128837407	geckodriver	INFO	Listening on 127.0.0.1:53858
+1512128839525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.7II3zr5HUZH4"
+1512128841134	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:47:22.194 plugin-container[35495:1855402] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512128842964	Marionette	INFO	Listening on port 53868
+1512128843284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512128843341	Marionette	DEBUG	Register listener.js for window 2147483649
+1512128843378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512128843796	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512128843796	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512128844462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512128847346	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512129032719	geckodriver	INFO	geckodriver 0.19.1
+1512129032791	geckodriver	INFO	Listening on 127.0.0.1:54377
+1512129032926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.SpbrZ16ARZPQ"
+1512129033654	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:50:34.476 plugin-container[35628:1859082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512129034945	Marionette	INFO	Listening on port 54381
+1512129035430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512129035475	Marionette	DEBUG	Register listener.js for window 2147483649
+1512129035487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512129036130	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512129036130	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512129036595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129039259	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512129106631	geckodriver	INFO	geckodriver 0.19.1
+1512129106699	geckodriver	INFO	Listening on 127.0.0.1:54587
+1512129106832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.lzbzntci9nCb"
+1512129107452	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:51:48.191 plugin-container[35702:1861001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512129108541	Marionette	INFO	Listening on port 54591
+1512129109260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512129109303	Marionette	DEBUG	Register listener.js for window 2147483649
+1512129109314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512129109819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512129109819	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512129110236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129112950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129113318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512129113579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+1512129227987	geckodriver	INFO	geckodriver 0.19.1
+1512129228147	geckodriver	INFO	Listening on 127.0.0.1:54914
+1512129230276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.mnBxcgC7HLOY"
+1512129230963	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:53:51.749 plugin-container[35760:1863353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512129232096	Marionette	INFO	Listening on port 54926
+1512129232699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512129232746	Marionette	DEBUG	Register listener.js for window 2147483649
+1512129232759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512129233184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512129233184	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512129233658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129236208	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129236585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512129236848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: resource://gre/modules/SelectContentHelper.jsm, line 89: TypeError: this.element is null
+JavaScript error: resource://gre/modules/SelectContentHelper.jsm, line 89: TypeError: this.element is null
+1512129524381	geckodriver	INFO	geckodriver 0.19.1
+1512129524501	geckodriver	INFO	Listening on 127.0.0.1:55743
+1512129526575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.YIrIh42O0KQj"
+1512129527478	Marionette	INFO	Enabled via --marionette
+2017-12-01 13:58:48.451 plugin-container[36025:1869850] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb83f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512129528816	Marionette	INFO	Listening on port 55753
+1512129529084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512129529129	Marionette	DEBUG	Register listener.js for window 2147483649
+1512129529141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512129529801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512129529801	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512129530312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129532942	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129533348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512129533602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/global_custom.js?v=d68c2f6923, line 493: TypeError: $(...).datepicker is not a function
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
+1512129783419	geckodriver	INFO	geckodriver 0.19.1
+1512129783496	geckodriver	INFO	Listening on 127.0.0.1:56356
+1512129785564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.j4OMhVuLFdRQ"
+1512129786270	Marionette	INFO	Enabled via --marionette
+2017-12-01 14:03:07.051 plugin-container[36229:1874109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512129787415	Marionette	INFO	Listening on port 56366
+1512129788004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512129788049	Marionette	DEBUG	Register listener.js for window 2147483649
+1512129788062	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512129788470	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512129788470	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923, line 57: TypeError: document.getElementById(...) is null
+1512129788961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129791484	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-sister-b-bne/book?instant=no"
+1512129791890	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512129792146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://www.travelground.com/login/assets/js/login.js?v=d68c2f6923, line 163: ReferenceError: event is not defined
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 86: TypeError: a is null
