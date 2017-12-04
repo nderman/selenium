@@ -55,5 +55,5 @@ try:
 	print (driver.title)
 finally:
 	pass
-	# driver.quit()
+	driver.quit()
 
