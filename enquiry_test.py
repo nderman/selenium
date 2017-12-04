@@ -18,7 +18,6 @@ driver = webdriver.PhantomJS()
 driver.get("https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no")
 driver.execute_script ("document.getElementById('dpd1').removeAttribute('readonly',0);");
 driver.execute_script ("document.getElementById('dpd2').removeAttribute('readonly',0);");
-# driver.execute_script ("document.getElementById('dpd1').val('15 Dec 2017');");
 
 # the page is ajaxy so the title is originally this:
 print (driver.title)
