@@ -1,29 +1,29 @@
-[INFO  - 2017-12-01T13:25:20.957Z] GhostDriver - Main - running on port 51759
-[INFO  - 2017-12-01T13:25:21.869Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2017-12-01T13:25:21.869Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.customHeaders:  - {}
-[INFO  - 2017-12-01T13:25:21.869Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2017-12-01T13:25:21.869Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 14ff4c80-d69b-11e7-bf8b-b17cb73f79b8
-[ERROR - 2017-12-01T13:25:22.916Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('dday').innerHTML=dday')
+[INFO  - 2017-12-04T13:31:27.616Z] GhostDriver - Main - running on port 58378
+[INFO  - 2017-12-04T13:31:27.995Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-12-04T13:31:27.995Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.customHeaders:  - {}
+[INFO  - 2017-12-04T13:31:27.995Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-12-04T13:31:27.995Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3
+[ERROR - 2017-12-04T13:31:28.991Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('dday').innerHTML=dday')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-01T13:25:22.916Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - stack:
-  countdown (https://www.travelground.com/js/used/flash_deal_countdown.js?v=d68c2f6923:57)
+[ERROR - 2017-12-04T13:31:28.991Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - stack:
+  countdown (https://www.travelground.com/js/used/flash_deal_countdown.js?v=27af0c522a:57)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-01T13:25:23.648Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 300268020349917
+[ERROR - 2017-12-04T13:31:29.477Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 300268020349917
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-01T13:25:23.648Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - stack:
+[ERROR - 2017-12-04T13:31:29.477Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - stack:
   q (https://connect.facebook.net/en_US/fbevents.js:25)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-01T13:25:25.830Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - msg: TypeError: null is not an object (evaluating 'a.firstChild')
+[ERROR - 2017-12-04T13:31:32.042Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - msg: TypeError: null is not an object (evaluating 'a.firstChild')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-01T13:25:25.830Z] Session [14ff4c80-d69b-11e7-bf8b-b17cb73f79b8] - page.onError - stack:
+[ERROR - 2017-12-04T13:31:32.042Z] Session [6e76f160-d8f7-11e7-9eb5-9d4f6732ffc3] - page.onError - stack:
   ng (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:86)
   sg (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:88)
-  initialize (https://www.travelground.com/js/used/new_establishment.js?v=d68c2f6923:215)
+  initialize (https://www.travelground.com/js/used/new_establishment.js?v=27af0c522a:215)
   (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:96)
   (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:64)
   (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:62)
