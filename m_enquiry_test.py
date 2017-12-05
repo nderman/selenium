@@ -14,8 +14,8 @@ startDate = datetime.datetime.now() + relativedelta(years=2)+relativedelta(days=
 endDate = startDate + relativedelta(days=2)
 
 # Create a new instance of the Firefox driver
-driver = webdriver.PhantomJS()
-#driver = webdriver.Firefox()
+#driver = webdriver.PhantomJS()
+driver = webdriver.Firefox()
 
 startDateString = '"'+ str(startDate.strftime("%d"))+' '+ str(startDate.strftime("%b"))+' '+ str(startDate.strftime("%Y")) + '"'
 endDateString = '"'+ str(endDate.strftime("%d"))+' '+ str(endDate.strftime("%b"))+' '+ str(endDate.strftime("%Y")) + '"'
@@ -46,8 +46,8 @@ driver.find_element_by_class_name('btn-continue').click()
 
 print ('date and pax submitted')
 
-# WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.ID,"enquiry-firstname"))) this doesn't work with the damn phantom driver
-time.sleep(3)
+WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.ID,"enquiry-firstname"))) #this doesn't work with the damn phantom driver
+#time.sleep(3)
 
 inputElement = driver.find_element_by_id("enquiry-firstname")
 inputElement.send_keys("Test")

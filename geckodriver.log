@@ -1949,3 +1949,21 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1512470155799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512470156028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512470157120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512474333951	geckodriver	INFO	geckodriver 0.19.1
+1512474334061	geckodriver	INFO	Listening on 127.0.0.1:49173
+1512474336142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.9BJLHVIZ9Y3i"
+1512474336911	Marionette	INFO	Enabled via --marionette
+2017-12-05 13:45:37.820 plugin-container[9773:499028] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512474338318	Marionette	INFO	Listening on port 49185
+1512474338585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512474338635	Marionette	DEBUG	Register listener.js for window 2147483649
+1512474338649	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512474339290	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512474339290	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512474339712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512474342264	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512474344221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512474344484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512474344712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512474345899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
