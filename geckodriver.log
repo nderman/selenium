@@ -1967,3 +1967,103 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1512474344484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512474344712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512474345899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476476474	geckodriver	INFO	geckodriver 0.19.1
+1512476476563	geckodriver	INFO	Listening on 127.0.0.1:49893
+1512476478808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.gGMk2681gWer"
+1512476479840	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:21:20.756 plugin-container[10236:566035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512476481352	Marionette	INFO	Listening on port 49899
+1512476482466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512476482512	Marionette	DEBUG	Register listener.js for window 2147483649
+1512476482529	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512476483123	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512476483123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512476483527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476486080	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476488093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476488367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476488593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-12-05 14:22:49.467 plugin-container[10268:568491] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512476872648	geckodriver	INFO	geckodriver 0.19.1
+1512476872725	geckodriver	INFO	Listening on 127.0.0.1:50213
+1512476874901	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.UZw6PQY3cn1a"
+1512476875581	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:27:56.385 plugin-container[10452:576645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512476876796	Marionette	INFO	Listening on port 50223
+1512476877326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512476877380	Marionette	DEBUG	Register listener.js for window 2147483649
+1512476877392	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512476878228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512476878229	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512476878632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476881479	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476883402	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476883671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476883895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512476911864	geckodriver	INFO	geckodriver 0.19.1
+1512476911941	geckodriver	INFO	Listening on 127.0.0.1:50356
+1512476914075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.PuqiO1SAkvGC"
+1512476914623	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:28:35.387 plugin-container[10499:577661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512476915777	Marionette	INFO	Listening on port 50366
+1512476916620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512476916672	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512476963642	geckodriver	INFO	geckodriver 0.19.1
+1512476963721	geckodriver	INFO	Listening on 127.0.0.1:50487
+1512476963827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.EJpb44bJGkUm"
+1512476964378	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:29:25.161 plugin-container[10531:578851] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512476965615	Marionette	INFO	Listening on port 50491
+1512476966266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512476966319	Marionette	DEBUG	Register listener.js for window 2147483649
+1512476966333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512476966925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512476966925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512476967298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476969822	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512476971808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512476972068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512477114705	geckodriver	INFO	geckodriver 0.19.1
+1512477115870	geckodriver	INFO	Listening on 127.0.0.1:50982
+1512477118246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.DBqbFqKYgL86"
+1512477118994	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:31:59.995 plugin-container[10686:582284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512477120679	Marionette	INFO	Listening on port 50998
+1512477120779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512477121031	Marionette	DEBUG	Register listener.js for window 2147483649
+1512477121046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512477121682	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512477121683	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512477122042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512477124600	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512477126551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512477126812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512477127348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://m.tg.n-al.vm/js/libs/jquery-1.11.1.min.js?v=72b22efcbb, line 3: TypeError: a.ownerDocument.defaultView is null
+1512477322995	geckodriver	INFO	geckodriver 0.19.1
+1512477323307	geckodriver	INFO	Listening on 127.0.0.1:51357
+1512477325426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.WV69ZI9V9fma"
+1512477326176	Marionette	INFO	Enabled via --marionette
+2017-12-05 14:35:27.442 plugin-container[10844:587317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512477327978	Marionette	INFO	Listening on port 51363
+1512477329122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512477329172	Marionette	DEBUG	Register listener.js for window 2147483649
+1512477329232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512477329829	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512477329830	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512477330529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512477333242	Marionette	DEBUG	Received DOM event "pageshow" for "http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry"
+1512477335220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512477335478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512477335717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512477336264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

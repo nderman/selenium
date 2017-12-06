@@ -10,19 +10,24 @@ from selenium.webdriver.support.ui import Select
 import time
 import datetime
 from dateutil.relativedelta import relativedelta
-startDate = datetime.datetime.now() + relativedelta(years=2)+relativedelta(days= 11)
+startDate = datetime.datetime.now() + relativedelta(years=2)
 endDate = startDate + relativedelta(days=2)
 
 # Create a new instance of the Firefox driver
-#driver = webdriver.PhantomJS()
-driver = webdriver.Firefox()
+driver = webdriver.PhantomJS()
+driver.set_window_size(1024, 768)
+
+#driver = webdriver.Firefox()
 
 startDateString = '"'+ str(startDate.strftime("%d"))+' '+ str(startDate.strftime("%b"))+' '+ str(startDate.strftime("%Y")) + '"'
 endDateString = '"'+ str(endDate.strftime("%d"))+' '+ str(endDate.strftime("%b"))+' '+ str(endDate.strftime("%Y")) + '"'
 
+
 # go to the google home page
-# driver.get("https://m.travelground.com/accommodation/karoo-ground-selenium-test/enquiry")
-driver.get("http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry")
+driver.get("https://m.travelground.com/accommodation/karoo-ground-selenium-test/enquiry")
+#driver.get("http://m.tg.n-al.vm/accommodation/karoo-ground-selenium-test/enquiry")
+
+
 
 driver.execute_script ("document.getElementById('enquiry-start-date').setAttribute('data', 'date: "+ startDateString +"' );")
 driver.execute_script ("document.getElementById('enquiry-end-date').setAttribute('data', 'date: "+ endDateString +"');")
@@ -42,12 +47,11 @@ select.select_by_visible_text("1")
 select = Select(driver.find_element_by_class_name("adult-select"))
 select.select_by_visible_text(str(datetime.datetime.now().hour))
 
-driver.find_element_by_class_name('btn-continue').click()
+driver.execute_script ("$('.btn-continue').click();")
 
 print ('date and pax submitted')
 
 WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.ID,"enquiry-firstname"))) #this doesn't work with the damn phantom driver
-#time.sleep(3)
 
 inputElement = driver.find_element_by_id("enquiry-firstname")
 inputElement.send_keys("Test")
@@ -57,12 +61,15 @@ inputElement = driver.find_element_by_id("enquiry-email")
 inputElement.send_keys("neal+seleniumtest@travelground.com")
 inputElement = driver.find_element_by_id("enquiry-phone")
 inputElement.send_keys("1111111111")
+inputElement = driver.find_element_by_id("enquiry-message")
+inputElement.send_keys("1111111111")
 
-# WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME,"btn-continue")))
+
+driver.execute_script ("$('.btn-continue').click();")
 
 driver.find_element_by_css_selector('#contact-details .btn-continue').click()
-
-
+print ('contact info submitted')
+print (driver.title)
 try:
 	WebDriverWait(driver, 10).until(EC.title_contains("Success!"))
 	print (driver.title)
