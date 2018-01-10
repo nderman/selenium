@@ -1,19 +1,19 @@
-[INFO  - 2018-01-10T12:04:41.188Z] GhostDriver - Main - running on port 64609
-[INFO  - 2018-01-10T12:04:42.217Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2018-01-10T12:04:42.217Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.customHeaders:  - {}
-[INFO  - 2018-01-10T12:04:42.217Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2018-01-10T12:04:42.217Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 70dd0240-f5fe-11e7-ba23-3999259b3a6a
-[ERROR - 2018-01-10T12:04:45.232Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('dday').innerHTML=dday')
+[INFO  - 2018-01-10T14:26:21.947Z] GhostDriver - Main - running on port 50437
+[INFO  - 2018-01-10T14:26:22.023Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-01-10T14:26:22.024Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.customHeaders:  - {}
+[INFO  - 2018-01-10T14:26:22.024Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-01-10T14:26:22.024Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3b24a130-f612-11e7-a0bf-2b77917127fe
+[ERROR - 2018-01-10T14:26:23.100Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('dday').innerHTML=dday')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:45.232Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - stack:
+[ERROR - 2018-01-10T14:26:23.100Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - stack:
   countdown (https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce:57)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:47.613Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - msg: TypeError: null is not an object (evaluating 'a.firstChild')
+[ERROR - 2018-01-10T14:26:26.421Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - msg: TypeError: null is not an object (evaluating 'a.firstChild')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:47.613Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - stack:
+[ERROR - 2018-01-10T14:26:26.421Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - stack:
   Ig (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:91)
   Mg (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:92)
   initialize (https://www.travelground.com/js/used/new_establishment.js?v=6ab047c6ce:215)
@@ -29,29 +29,11 @@
   (anonymous function) (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:49.750Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('dday').innerHTML=dday')
+[ERROR - 2018-01-10T14:26:28.723Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$('#arrival_date').datepicker()')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:49.752Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - stack:
-  countdown (https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce:57)
+[ERROR - 2018-01-10T14:26:28.724Z] Session [3b24a130-f612-11e7-a0bf-2b77917127fe] - page.onError - stack:
+  global code (https://www.travelground.com/js/used/global_custom.js?v=6ab047c6ce:493)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:49.934Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - msg: TypeError: null is not an object (evaluating 'a.firstChild')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-01-10T12:04:49.934Z] Session [70dd0240-f5fe-11e7-ba23-3999259b3a6a] - page.onError - stack:
-  Ig (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:91)
-  Mg (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:92)
-  initialize (https://www.travelground.com/js/used/new_establishment.js?v=6ab047c6ce:215)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:100)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:65)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:63)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:65)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:127)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:63)
-  (anonymous function) (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:127)
-  ae (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:65)
-  na (https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&:127)
-  (anonymous function) (:0)
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-01-10T14:31:21.944Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

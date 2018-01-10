@@ -2106,3 +2106,112 @@ JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-r
 1515586046271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
 JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+1515587203328	geckodriver	INFO	geckodriver 0.19.1
+1515587203381	geckodriver	INFO	Listening on 127.0.0.1:53935
+1515587204501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.NO4DZyJoHYLC"
+1515587205282	Marionette	INFO	Enabled via --marionette
+2018-01-10 14:26:46.165 plugin-container[28592:689129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515587206620	Marionette	INFO	Listening on port 53950
+1515587206692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515587206739	Marionette	DEBUG	Register listener.js for window 2147483649
+1515587206772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515587207527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515587207527	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+1515587207958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515587210732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515587211128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515587211381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515587238863	geckodriver	INFO	geckodriver 0.19.1
+1515587238916	geckodriver	INFO	Listening on 127.0.0.1:54217
+1515587239973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.bDB9C1YitojR"
+1515587240492	Marionette	INFO	Enabled via --marionette
+2018-01-10 14:27:21.317 plugin-container[28609:689626] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515587241668	Marionette	INFO	Listening on port 54232
+1515587241739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515587241786	Marionette	DEBUG	Register listener.js for window 2147483649
+1515587241867	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515587242434	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515587242440	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+1515587243218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515587245738	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515587246181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515587246441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+1515587346263	Marionette	DEBUG	Register listener.js for window 2147483654
+1515587346461	Marionette	DEBUG	Register listener.js for window 4294967297
+2018-01-10 14:29:06.620 plugin-container[28645:691258] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/SelectContentHelper.jsm, line 89: TypeError: this.element is null
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+JavaScript error: resource://gre/modules/SelectContentHelper.jsm, line 89: TypeError: this.element is null
+JavaScript error: resource://gre/modules/SelectContentHelper.jsm, line 89: TypeError: this.element is null
+1515593988670	geckodriver	INFO	geckodriver 0.19.1
+1515593988758	geckodriver	INFO	Listening on 127.0.0.1:49991
+1515593989730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.Y2Aao8PhI2ff"
+1515593990676	Marionette	INFO	Enabled via --marionette
+2018-01-10 16:19:51.714 plugin-container[1214:18042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515593992198	Marionette	INFO	Listening on port 50002
+1515593992251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515593992304	Marionette	DEBUG	Register listener.js for window 2147483649
+1515593992327	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515593992876	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515593992876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+1515593993374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515593995823	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515593996246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515593996498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515594324070	geckodriver	INFO	geckodriver 0.19.1
+1515594324133	geckodriver	INFO	Listening on 127.0.0.1:50289
+1515594325161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.RqazcpgRJCeX"
+1515594325948	Marionette	INFO	Enabled via --marionette
+2018-01-10 16:25:26.791 plugin-container[1367:21745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515594327199	Marionette	INFO	Listening on port 50300
+1515594327238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515594327284	Marionette	DEBUG	Register listener.js for window 2147483649
+1515594327341	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515594328117	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515594328117	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+1515594328590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515594331200	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515594331596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515594331854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515594764931	geckodriver	INFO	geckodriver 0.19.1
+1515594764990	geckodriver	INFO	Listening on 127.0.0.1:50633
+1515594766142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-profile" "/var/folders/qf/g0hdrxv96yz_q56dqm8lsbv40000gn/T/rust_mozprofile.spHHzAC1G0Xg"
+*** You are running in headless mode.
+1515594766894	Marionette	INFO	Enabled via --marionette
+2018-01-10 16:32:47.675 plugin-container[1545:26874] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515594768019	Marionette	INFO	Listening on port 50640
+1515594768109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515594768155	Marionette	DEBUG	Register listener.js for window 2147483649
+1515594768173	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515594768906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515594768906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.travelground.com/js/used/flash_deal_countdown.js?v=6ab047c6ce, line 57: TypeError: document.getElementById(...) is null
+1515594769344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515594771907	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no"
+1515594772326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515594772579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyDedPTvYdBu-rg0oF3IdhbnDvQzjNz58Mc&sensor=false&callback=initialize&libraries=geometry&, line 91: TypeError: a is null
+1515594772948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.travelground.com/js/used/global_custom.js?v=6ab047c6ce, line 493: TypeError: $(...).datepicker is not a function

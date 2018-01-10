@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0
 from selenium.webdriver.support import expected_conditions as EC # available since 2.26.0
@@ -12,9 +13,9 @@ startDate = datetime.datetime.now() + relativedelta(years=2)
 endDate = startDate + relativedelta(days=2)
 
 # Create a new instance of the Firefox driver
-#driver = webdriver.PhantomJS()
-driver = webdriver.Firefox()
-
+options = Options()
+options.add_argument("--headless")
+driver = webdriver.Firefox(firefox_options=options)
 
 # go to the google home page
 driver.get("https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no")
