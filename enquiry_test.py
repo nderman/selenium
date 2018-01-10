@@ -12,7 +12,9 @@ startDate = datetime.datetime.now() + relativedelta(years=2)
 endDate = startDate + relativedelta(days=2)
 
 # Create a new instance of the Firefox driver
-driver = webdriver.PhantomJS()
+#driver = webdriver.PhantomJS()
+driver = webdriver.Firefox()
+
 
 # go to the google home page
 driver.get("https://www.travelground.com/accommodation/karoo-ground-selenium-test/book?instant=no")
@@ -54,5 +56,5 @@ try:
 	print (driver.title)
 finally:
 	pass
-	driver.quit()
+	#driver.quit()
 
